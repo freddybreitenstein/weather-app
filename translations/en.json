@@ -1,0 +1,17 @@
+{
+  "appTitle": "Weather App",
+  "search": "Search",
+  "feels_like": "Feels like",
+  "humidity": "Humidity",
+  "wind": "Wind",
+  "high": "H",
+  "low": "L",
+  "lastUpdated": "Last updated",
+  "fiveDayForecast": "5 Day Forecast",
+  "today": "Today",
+  "currentLocation": "Current Location",
+  "noResults": "No results found",
+  "searchPlaceholder": "Search for a place",
+  "enableLocation": "Click to enable location",
+  "nameNotFound": "Name not found"
+}

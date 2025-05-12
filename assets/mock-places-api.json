@@ -1,0 +1,332 @@
+[
+  {
+    "id": "1",
+    "title": "New York, United States",
+    "lat": 40.7128,
+    "lon": -74.006
+  },
+  {
+    "id": "2",
+    "title": "London, United Kingdom",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  {
+    "id": "3",
+    "title": "Tokyo, Japan",
+    "lat": 35.6895,
+    "lon": 139.6917
+  },
+  {
+    "id": "4",
+    "title": "Paris, France",
+    "lat": 48.8566,
+    "lon": 2.3522
+  },
+  {
+    "id": "5",
+    "title": "Berlin, Germany",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  {
+    "id": "6",
+    "title": "Madrid, Spain",
+    "lat": 40.4168,
+    "lon": -3.7038
+  },
+  {
+    "id": "7",
+    "title": "Rome, Italy",
+    "lat": 41.9028,
+    "lon": 12.4964
+  },
+  {
+    "id": "8",
+    "title": "Beijing, China",
+    "lat": 39.9042,
+    "lon": 116.4074
+  },
+  {
+    "id": "9",
+    "title": "Sydney, Australia",
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  {
+    "id": "10",
+    "title": "Toronto, Canada",
+    "lat": 43.65107,
+    "lon": -79.347015
+  },
+  {
+    "id": "11",
+    "title": "Mexico City, Mexico",
+    "lat": 19.4326,
+    "lon": -99.1332
+  },
+  {
+    "id": "12",
+    "title": "S\u00e3o Paulo, Brazil",
+    "lat": -23.5505,
+    "lon": -46.6333
+  },
+  {
+    "id": "13",
+    "title": "Moscow, Russia",
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  {
+    "id": "14",
+    "title": "Seoul, South Korea",
+    "lat": 37.5665,
+    "lon": 126.978
+  },
+  {
+    "id": "15",
+    "title": "Istanbul, Turkey",
+    "lat": 41.0082,
+    "lon": 28.9784
+  },
+  {
+    "id": "16",
+    "title": "Mumbai, India",
+    "lat": 19.076,
+    "lon": 72.8777
+  },
+  {
+    "id": "17",
+    "title": "Bangkok, Thailand",
+    "lat": 13.7563,
+    "lon": 100.5018
+  },
+  {
+    "id": "18",
+    "title": "Singapore, Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  {
+    "id": "19",
+    "title": "Cairo, Egypt",
+    "lat": 30.0444,
+    "lon": 31.2357
+  },
+  {
+    "id": "20",
+    "title": "Dubai, United Arab Emirates",
+    "lat": 25.2048,
+    "lon": 55.2708
+  },
+  {
+    "id": "21",
+    "title": "Buenos Aires, Argentina",
+    "lat": -34.6037,
+    "lon": -58.3816
+  },
+  {
+    "id": "22",
+    "title": "Lima, Peru",
+    "lat": -12.0464,
+    "lon": -77.0428
+  },
+  {
+    "id": "23",
+    "title": "Santiago, Chile",
+    "lat": -33.4489,
+    "lon": -70.6693
+  },
+  {
+    "id": "24",
+    "title": "Bogot\u00e1, Colombia",
+    "lat": 4.711,
+    "lon": -74.0721
+  },
+  {
+    "id": "25",
+    "title": "Lagos, Nigeria",
+    "lat": 6.5244,
+    "lon": 3.3792
+  },
+  {
+    "id": "26",
+    "title": "Nairobi, Kenya",
+    "lat": -1.2921,
+    "lon": 36.8219
+  },
+  {
+    "id": "27",
+    "title": "Cape Town, South Africa",
+    "lat": -33.9249,
+    "lon": 18.4241
+  },
+  {
+    "id": "28",
+    "title": "Jakarta, Indonesia",
+    "lat": -6.2088,
+    "lon": 106.8456
+  },
+  {
+    "id": "29",
+    "title": "Tehran, Iran",
+    "lat": 35.6892,
+    "lon": 51.389
+  },
+  {
+    "id": "30",
+    "title": "Baghdad, Iraq",
+    "lat": 33.3128,
+    "lon": 44.3615
+  },
+  {
+    "id": "31",
+    "title": "Karachi, Pakistan",
+    "lat": 24.8607,
+    "lon": 67.0011
+  },
+  {
+    "id": "32",
+    "title": "Manila, Philippines",
+    "lat": 14.5995,
+    "lon": 120.9842
+  },
+  {
+    "id": "33",
+    "title": "Hanoi, Vietnam",
+    "lat": 21.0285,
+    "lon": 105.8542
+  },
+  {
+    "id": "34",
+    "title": "Riyadh, Saudi Arabia",
+    "lat": 24.7136,
+    "lon": 46.6753
+  },
+  {
+    "id": "35",
+    "title": "Kuala Lumpur, Malaysia",
+    "lat": 3.139,
+    "lon": 101.6869
+  },
+  {
+    "id": "36",
+    "title": "Helsinki, Finland",
+    "lat": 60.1695,
+    "lon": 24.9354
+  },
+  {
+    "id": "37",
+    "title": "Oslo, Norway",
+    "lat": 59.9139,
+    "lon": 10.7522
+  },
+  {
+    "id": "38",
+    "title": "Stockholm, Sweden",
+    "lat": 59.3293,
+    "lon": 18.0686
+  },
+  {
+    "id": "39",
+    "title": "Copenhagen, Denmark",
+    "lat": 55.6761,
+    "lon": 12.5683
+  },
+  {
+    "id": "40",
+    "title": "Amsterdam, Netherlands",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "id": "41",
+    "title": "Brussels, Belgium",
+    "lat": 50.8503,
+    "lon": 4.3517
+  },
+  {
+    "id": "42",
+    "title": "Vienna, Austria",
+    "lat": 48.2082,
+    "lon": 16.3738
+  },
+  {
+    "id": "43",
+    "title": "Zurich, Switzerland",
+    "lat": 47.3769,
+    "lon": 8.5417
+  },
+  {
+    "id": "44",
+    "title": "Lisbon, Portugal",
+    "lat": 38.7223,
+    "lon": -9.1393
+  },
+  {
+    "id": "45",
+    "title": "Budapest, Hungary",
+    "lat": 47.4979,
+    "lon": 19.0402
+  },
+  {
+    "id": "46",
+    "title": "Prague, Czech Republic",
+    "lat": 50.0755,
+    "lon": 14.4378
+  },
+  {
+    "id": "47",
+    "title": "Warsaw, Poland",
+    "lat": 52.2297,
+    "lon": 21.0122
+  },
+  {
+    "id": "48",
+    "title": "Athens, Greece",
+    "lat": 37.9838,
+    "lon": 23.7275
+  },
+  {
+    "id": "49",
+    "title": "Dublin, Ireland",
+    "lat": 53.3498,
+    "lon": -6.2603
+  },
+  {
+    "id": "50",
+    "title": "Edinburgh, Scotland",
+    "lat": 55.9533,
+    "lon": -3.1883
+  },
+  {
+    "id": "51",
+    "title": "Belfast, Northern Ireland",
+    "lat": 54.5973,
+    "lon": -5.9301
+  },
+  {
+    "id": "52",
+    "title": "Cardiff, Wales",
+    "lat": 51.4816,
+    "lon": -3.1791
+  },
+  {
+    "id": "53",
+    "title": "Glasgow, Scotland",
+    "lat": 55.8642,
+    "lon": -4.2518
+  },
+  {
+    "id": "54",
+    "title": "Liverpool, England",
+    "lat": 53.4084,
+    "lon": -2.9916
+  },
+  {
+    "id": "55",
+    "title": "Manchester, England",
+    "lat": 53.4808,
+    "lon": -2.2426
+  }
+]
