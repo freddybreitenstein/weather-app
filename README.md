@@ -7,9 +7,9 @@ A modern weather app built with **Expo**, **React Native**, and **TypeScript**, 
 ### 🔍 Location Search
 
 - Search for weather by city or location
-- **Autocomplete** with `react-native-autocomplete-dropdown`
-- **Recent searches**
-- **Mocked Places API** for autocomplete (Google Places would be used in production)
+- Autocomplete
+- Recent searches
+- Mocked Places API for autocomplete (Google Places would be used in production)
 
 ### 🌤️ Current Weather
 
@@ -40,10 +40,10 @@ A modern weather app built with **Expo**, **React Native**, and **TypeScript**, 
 - **TypeScript** – safety and clarity
 - **TanStack Query** – for managing API state (preferred over Redux for simplicity)
 - **Redux** – minimally used, per assignment requirement
-- **React Navigation** – screen management
+- **Expo Router** – screen management
 - **OpenWeatherMap API** – weather data
 - **i18next** – translations and future localization support
-- **React Native Autocomplete Dropdown** – flexible, debounced autocomplete with highlight features
+- **react-native-autocomplete-dropdown** – flexible, debounced autocomplete with highlight features
 
 ## 📁 Project Structure
 
